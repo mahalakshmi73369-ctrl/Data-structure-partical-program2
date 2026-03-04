@@ -1,3 +1,4 @@
+Data structure partical program 2
 class Node:
     def __init__(self, sid, name, marks):
         self.sid = sid
